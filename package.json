@@ -1,9 +1,9 @@
 {
   "name": "scripts",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Collection of useful scripts",
   "scripts": {
-    "setup": "npm i && echo 'Add the dir to PATH' && bash build_scripts.sh"
+    "setup": "npm i && echo 'Add ./out subdir to PATH' && bash build_scripts.sh"
   },
   "repository": {
     "type": "git",
