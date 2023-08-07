@@ -1,0 +1,18 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "Collection of useful scripts",
+  "scripts": {
+    "setup": "npm i && echo 'Add the dir to PATH' && bash build_scripts.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Craft485/Scripts.git"
+  },
+  "author": "Colin Davis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Craft485/Scripts/issues"
+  },
+  "homepage": "https://github.com/Craft485/Scripts#readme"
+}
