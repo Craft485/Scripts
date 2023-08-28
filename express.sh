@@ -1,5 +1,5 @@
-serverURL="https://raw.githubusercontent.com/Craft485/Scripts/master/files/express_webserver.js"
-serverConfigURL="https://raw.githubusercontent.com/Craft485/Scripts/master/files/webserver_config.json"
+serverURL="https://raw.githubusercontent.com/Craft485/Scripts/master/files/express/express_webserver.js"
+serverConfigURL="https://raw.githubusercontent.com/Craft485/Scripts/master/files/express/webserver_config.json"
 
 echo "Creating new express project in"
 
