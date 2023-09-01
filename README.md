@@ -12,3 +12,6 @@ Upon cloning, run `npm run setup` in root directory
 
 - node_base.sh
   - Create a default node project in the current directory
+
+- clean.sh
+  - Remove contents of a directory without replacing the directory itself
